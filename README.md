@@ -26,11 +26,11 @@ guidelines before contributing, though.
 
 ### Guidelines
 
-* Location must be relevant to military air training operations within the NTTR,
-  either in general or for specififc large-scale or persistent training
+- Location must be relevant to military air training operations within the NTTR,
+  either in general or for specific large-scale or persistent training
   operations (such as RED FLAG).
-* Data must be unclassified and publicly available.
-* Fixes that are already a part of ForeFlight's aeronautical data (such as
+- Data must be unclassified and publicly available.
+- Fixes that are already a part of ForeFlight's aeronautical data (such as
   `FYTTR`) are not included.
 
 ## Sources
