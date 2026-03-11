@@ -3,16 +3,15 @@
 This content pack contains waypoints and range information for the Nellis Test
 and Training Range (NTTR).
 
-The primary sources for this data are the RED FLAG 2014 In-Flight Guide and the
-Nellis AFB 11-250 Local Flying Procedures guide. **DO NOT USE FOR REAL WORLD
-FLIGHT.** This data is not up-to-date and not considered an official source for
-navigation under FAA or DoD regulations.
+The primary source for this data is NELLISAFBI11-250, 17 June 2022 (Local Flying
+Procedures). **DO NOT USE FOR REAL WORLD FLIGHT.** This data is not considered an
+official source for navigation under FAA or DoD regulations.
 
 ## Installation
 
 To install this content pack into your ForeFlight application, click this link
 on your device:
-https://foreflight.com/content?downloadURL=https://github.com/RISCfuture/NTTRForeFlightContentPack/archive/refs/tags/NTTRForeFlightContentPack-v1.2.zip
+https://foreflight.com/content?downloadURL=https://github.com/RISCfuture/NTTRForeFlightContentPack/archive/refs/tags/NTTRForeFlightContentPack-v1.3.zip
 
 Then, in the Downloads view, ensure that the content pack titled
 "NTTRForeFlightContentPack" is downloaded. You may need to force-quit and
@@ -35,8 +34,8 @@ guidelines before contributing, though.
 
 ## Sources
 
-Fixes: RED FLAG 2014 In-Flight Guide, Nellis AFB 11-250 Local Flying Procedures
+Fixes: NELLISAFBI11-250, 17 June 2022 (Attachment 3)
 
-Charts: Nellis AFB 11-250 Local Flying Procedures
+Charts: NELLISAFBI11-250, 17 June 2022
 
 Vector data: 476th vFG
