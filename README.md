@@ -11,7 +11,7 @@ official source for navigation under FAA or DoD regulations.
 
 To install this content pack into your ForeFlight application, click this link
 on your device:
-https://foreflight.com/content?downloadURL=https://github.com/RISCfuture/NTTRForeFlightContentPack/archive/refs/tags/NTTRForeFlightContentPack-v1.3.zip
+<https://foreflight.com/content?downloadURL=https://github.com/RISCfuture/NTTRForeFlightContentPack/archive/refs/tags/NTTRForeFlightContentPack-v1.3.zip>
 
 Then, in the Downloads view, ensure that the content pack titled
 "NTTRForeFlightContentPack" is downloaded. You may need to force-quit and
